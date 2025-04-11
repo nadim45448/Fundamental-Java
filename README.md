@@ -7,7 +7,8 @@ This repository is created for my own learning purpose, covering fundamental Jav
 - **String Manipulation** – String operations, regex handling, and common algorithms.  
 - **JSON Processing** – Parsing, creating, and modifying JSON data using Java libraries.  
 - **File Operations** – Reading, writing, and managing files with Java I/O and NIO.  
-- **Loops & Control Statements** – Efficient use of loops, conditionals, and iterative structures.  
+- **Loops & Control Statements** – Efficient use of loops, conditionals, and iterative structures.
+- **OOP** - Encapsulation, Polymorphism, Inheritance, Abstraction, Interface
 
 ## 🎯 Purpose  
 This repository serves as a personal reference for practicing and reinforcing Core Java concepts. It is not intended as a structured course but rather as a collection of useful examples and exercises.  
